@@ -29,3 +29,7 @@ char pop(){
 char peek(){
     return STACK[top];
 }
+
+void infix2Prefix(char infix[], char prefix[]){
+
+}
